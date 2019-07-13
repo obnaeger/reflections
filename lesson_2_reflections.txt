@@ -1,0 +1,15 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+so that I can use git functions to track my versions
+
+How is the staging area different from the working dir and the repo?  What value do you think it offers?
+
+the staging area allows you to write commit messages 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can review the diff (no arguments) to check what changes you are making
+
+What are some situations when branches would be helpful in keeping your history organized?
+
+You will have different versions of the program rather than all the same copy with modifications.
